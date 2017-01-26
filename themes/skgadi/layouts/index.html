@@ -1,47 +1,91 @@
-{{ partial "header.html" . }}
-<table style="width: 100%;">
-<tr>
-	<td style="vertical-align: top; width: 50%;">
-		<table>
-			<tr>
-				<td><h2>Courses</h2></td>
-				<td>(<a href="{{ .Site.BaseURL }}courses" style="font-size: 12px;" >View all</a>)</td>
-			</tr>
-		</table>
-		{{- range first 10 .Data.Pages -}}
-			{{- if eq .Type "courses"}}
-				&#x25BA;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a><br/>
-			{{- end -}}
-		{{- end }}
-	</td>
-	<td style="vertical-align: top;">
-		<table>
-			<tr>
-				<td><h2>Projects</h2></td>
-				<td>(<a href="{{ .Site.BaseURL }}projects" style="font-size: 12px;" >View all</a>)</td>
-			</tr>
-		</table>
-		{{- range .Data.Pages -}}
-			{{- if eq .Type "projects"}}
-				&#x25BA;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a><br/>
-			{{- end -}}
-		{{- end }}
-	</td>
-</tr><tr>
-	<td style="vertical-align: top;" colspan="2">
-		<table>
-			<tr>
-				<td><h2>Posts</h2></td>
-				<td>(<a href="{{ .Site.BaseURL }}posts" style="font-size: 12px;" >View all</a>)</td>
-			</tr>
-		</table>
-		{{- range .Data.Pages -}}
-			{{- if eq .Type "posts"}}
-				&#x25BA;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a><br/>
-			{{- end -}}
-		{{- end }}
-	</td>
-</tr>
-</table>
-<br/>
-{{ partial "footer.html" . -}}
+{{ partial "head.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class=" w3-display-container" style="width: 100%; margin-top: 100px;">
+  <div class="w3-display-container mySlides">
+	  <img style="width: 100%; height: 500px; object-fit: cover;" src="images/20161029/IMG_6526.JPG">
+	  <div class="w3-display-bottomleft w3-container w3-padding-32 w3-black">
+		Trolltunga, Norwayasdf asdfsadf sdf asdkfj hsadkfj
+	  </div>
+  </div>
+  <div class="w3-display-container mySlides">
+	  <img style="width: 100%; height: 500px; object-fit: cover;" src="images/20161029/IMG_6527.JPG">
+	  <div class="w3-display-bottomleft w3-container w3-padding-32 w3-black">
+		Trolltunga, Norwayasdf asdfsadf sdf asdkfj
+	  </div>
+  </div>
+  <div class="w3-display-container mySlides">
+	  <img style="width: 100%; height: 500px; object-fit: cover;" src="images/20161029/IMG_6528.JPG">
+	  <div class="w3-display-bottomleft w3-container w3-padding-32 w3-black">
+		Trolltunga, Norwayasdf asdfsadf sdf asdkfj hsad
+	  </div>
+  </div>
+  <div class="w3-display-container mySlides">
+	  <img style="width: 100%; height: 500px; object-fit: cover;" src="images/20161029/IMG_6529.JPG">
+	  <div class="w3-display-bottomleft w3-container w3-padding-32 w3-black">
+		Trolltunga, Norwayasdf asdfsadf sdf asdkfj hs
+	  </div>
+  </div>
+  <div class="w3-display-container mySlides">
+	  <img style="width: 100%; height: 500px; object-fit: cover;" src="images/20161029/IMG_6530.JPG">
+	  <div class="w3-display-bottomleft w3-container w3-padding-32 w3-black">
+		Trolltunga, Norwayasdf asdfsadf sdf asdkfj
+	  </div>
+  </div>
+  <div class="w3-display-bottomright" style="width:100%">
+	<!--a class="w3-text-white"onclick="plusDivs(-1)">&#9668;</a-->
+	<a class="demo w3-text-white w3-xlarge" onclick="currentDiv(1)">&#9678;</a>
+	<a class="demo w3-text-white w3-xlarge" onclick="currentDiv(2)">&#9678;</a>
+	<a class="demo w3-text-white w3-xlarge" onclick="currentDiv(3)">&#9678;</a>
+	<a class="demo w3-text-white w3-xlarge" onclick="currentDiv(4)">&#9678;</a>
+	<a class="demo w3-text-white w3-xlarge" onclick="currentDiv(5)">&#9678;</a>
+	<!--a class="w3-text-white"onclick="plusDivs(1)">&#9658;</a-->
+  </div>
+  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+<a class="w3-btn-floating w3-display-right" onclick="plusDivs(+1)">&#10095;</a>
+</div>
+<div class="w3-container w3-center" style="margin-top: 0px;">
+<h1>What we do?</h1>
+<div class="w3-row-padding">
+	<div class="w3-col m4 l4 w3-hover-shadow">
+		<div class="w3-card-4 w3-padding w3-theme-l3 w3-margin">
+			<a ><img src="images/20161029/IMG_7876.JPG" style="width: 100%; height: 300px; object-fit: cover;" /></a>
+			<p>Sri Krishna Dairy (SKD)</p>
+			<div class="w3-progress-container w3-theme-l4">
+				<div class="w3-progressbar w3-theme-d4" style="width:90%">
+					<div class="w3-center w3-theme-d4">90%</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="w3-col m4 l4 w3-hover-shadow">
+		<div class="w3-card-4 w3-padding w3-theme-l3 w3-margin">
+			<a ><img src="images/20161029/IMG_7877.JPG" style="width: 100%; height: 300px; object-fit: cover;" /></a>
+			<p>Organic farming</p>
+			<div class="w3-progress-container w3-theme-l4">
+				<div class="w3-progressbar w3-theme-d4" style="width:30%">
+					<div class="w3-center w3-theme-d4">30%</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="w3-col m4 l4 w3-hover-shadow">
+		<div class="w3-card-4 w3-padding w3-theme-l3 w3-margin">
+			<a ><img src="images/20161029/IMG_7879.JPG" style="width: 100%; height: 300px; object-fit: cover;" /></a>
+			<p>Cement and steel</p>
+			<div class="w3-progress-container w3-theme-l4">
+				<div class="w3-progressbar w3-theme-d4" style="width:00%">
+					<div class="w3-center w3-theme-d4">0%</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script SRC="js/script.js"></script>
+<script>
+carousel();
+showDivs(slideIndex);
+</script>
+{{ partial "footer.html" . }}
