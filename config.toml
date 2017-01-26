@@ -1,0 +1,50 @@
+theme = "skgadi"
+languageCode = "en-us"
+title = "Suresh Kumar Gadi"
+
+baseurl = "https://skgadi.com/"
+[params]
+	CommonTitle = "Suresh Kumar Gadi"
+	SubTitle = "Profesor investigador, FIME, UAdeC"
+	Copyright = "2017 Suresh Kumar Gadi"
+	email = "gadisureshkumar-at-gmail-dot-com"
+	ORCID = "0000-0001-7974-7825"
+	GScholar = "efqOY90AAAAJ"
+	GPlus = "+SureshKumarGadi"
+	LinkedIn = "skgadi"
+	Twitter = "SureshKumarGadi"
+	Maps = "https://goo.gl/maps/8NrtjMajSUz"
+	Phone = "+52(1)4491820153"
+	Fax = "+52(1)8717570153"
+	Address = "Carretera Torreón - Matamoros Km. 7.5, Ciudad Universitaria, Torreón, Coahuila, México, C.P. 27276"
+	GoogleAnalyticsID = "UA-89998286-1"
+	
+[params.meta.Keywords]
+	name = ["skgadi", "suresh kumar gadi", "control digital"]
+[params.meta.Description]
+	name = "Dr. Suresh Kumar Gadi is a research professor at the Universidad Autónoma de Coahuila"
+
+
+[[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    url = "/"
+	weight = 0
+
+[[menu.main]]
+    identifier = "Education"
+    name = "Education"
+    url = "/education/"
+	weight = 1
+
+[[menu.main]]
+    identifier = "WorkExperience"
+    name = "Work experience"
+    url = "/work-experience/"
+	weight = 2
+
+[[menu.main]]
+    identifier = "Research"
+    name = "Research"
+    url = "/research/"
+	weight = 3
