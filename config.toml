@@ -2,7 +2,7 @@ theme = "skgadi"
 languageCode = "en-us"
 title = "Suresh Kumar Gadi"
 
-baseurl = "https://mgfzone.com/"
+baseurl = "http://mgfzone.com/"
 [params]
 	CommonTitle = "Suresh Kumar Gadi"
 	SubTitle = "Profesor investigador, FIME, UAdeC"
