@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Kumar Gadi</title>
+    <link>https://mgfzone.netlify.com/index.xml</link>
+    <description>Recent content on Suresh Kumar Gadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Suresh Kumar Gadi</copyright>
+    <lastBuildDate>Mon, 09 Jan 2017 23:12:36 -0600</lastBuildDate>
+    <atom:link href="https://mgfzone.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Industrial electronics</title>
+      <link>https://mgfzone.netlify.com/courses/2017-01-06-industrial-electronics/</link>
+      <pubDate>Mon, 09 Jan 2017 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2017-01-06-industrial-electronics/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--
+
+[[CourseMaterial]]
+    Name = &#34;Syllabus&#34;
+    URL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Circuitos%20el%C3%A9ctricos%20II.doc&#34;
+
+[[Homeworks]]
+    Name = &#34;Homework 1&#34;
+    Date = &#34;2016-09-01&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework001/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework001/answers.pdf&#34;
+[[Homeworks]]
+    Name = &#34;Homework 2&#34;
+    Date = &#34;2016-09-15&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework002/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework002/answers.pdf&#34;
+[[Homeworks]]
+    Name = &#34;Homework 3&#34;
+    Date = &#34;2016-10-04&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework003/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework003/answers.pdf&#34;
+
+[[Exams]]
+    Name = &#34;Exam 1&#34;
+    Date = &#34;2016-10-07&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam001/questions.pdf&#34;
+    AnswersURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam001/questions.pdf&#34;
+[[Exams]]
+    Name = &#34;Exam 2&#34;
+    Date = &#34;2016-11-11&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam002/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam002/answers.pdf&#34;
+
+    --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semiconductor physics</title>
+      <link>https://mgfzone.netlify.com/courses/2017-01-06-semiconductor-physics/</link>
+      <pubDate>Mon, 09 Jan 2017 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2017-01-06-semiconductor-physics/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--
+
+[[CourseMaterial]]
+    Name = &#34;Syllabus&#34;
+    URL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Circuitos%20el%C3%A9ctricos%20II.doc&#34;
+
+[[Homeworks]]
+    Name = &#34;Homework 1&#34;
+    Date = &#34;2016-09-01&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework001/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework001/answers.pdf&#34;
+[[Homeworks]]
+    Name = &#34;Homework 2&#34;
+    Date = &#34;2016-09-15&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework002/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework002/answers.pdf&#34;
+[[Homeworks]]
+    Name = &#34;Homework 3&#34;
+    Date = &#34;2016-10-04&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework003/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Homework003/answers.pdf&#34;
+
+[[Exams]]
+    Name = &#34;Exam 1&#34;
+    Date = &#34;2016-10-07&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam001/questions.pdf&#34;
+    AnswersURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam001/questions.pdf&#34;
+[[Exams]]
+    Name = &#34;Exam 2&#34;
+    Date = &#34;2016-11-11&#34;
+    QuestionsURL = &#34;https://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam002/questions.pdf&#34;
+    AnswersURL = &#34;http://github.com/skgadi/Courses/raw/master/2016-07-12/FIME-5A/Exam002/answers.pdf&#34;
+
+    --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://mgfzone.netlify.com/research/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/research/</guid>
+      <description>
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linear and nonlinear systems&lt;/li&gt;
+&lt;li&gt;Optimization&lt;/li&gt;
+&lt;li&gt;Parametric excitation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;
+
+&lt;p&gt;Please use the email &amp;ldquo;research-at-skgadi.com&amp;rdquo; for research related emails.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;div&gt;
+&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div class=&#34;searchbar&#34;&gt;
+        &lt;input style=&#34;width: 100%;&#34;type=&#34;text&#34; class=&#34;Authrozed bibtex_search form-control SKGSearchItem&#34; id=&#34;searchbar&#34; placeholder=&#34;Search - Example: journal 2015 (finds the intersection of the two terms)&#34;/&gt;
+        &lt;br/&gt;&lt;br/&gt;
+    &lt;table style=&#34;margin: auto;&#34;&gt;&lt;tr&gt;
+    &lt;td&gt;
+        &lt;select id=&#34;authorselectfirst&#34; class=&#34;btn bibtex_search bibtex_author ResearchSearchItem&#34; extra=&#34;first&#34; search=&#34;author&#34;&gt;
+            &lt;option value=&#34;&#34;&gt;Search First Author&lt;/option&gt;
+        &lt;/select&gt;
+    &lt;/td&gt;&lt;td&gt;
+        &lt;select id=&#34;authorselect&#34; class=&#34;btn bibtex_search bibtex_author ResearchSearchItem&#34; search=&#34;author&#34;&gt;
+            &lt;option value=&#34;&#34;&gt;Search Author&lt;/option&gt;
+        &lt;/select&gt;
+    &lt;/td&gt;&lt;td&gt;
+        &lt;select id=&#34;topicselect&#34; class=&#34;btn bibtex_search ResearchSearchItem&#34; &gt;
+            &lt;option value=&#34;&#34;&gt;Search Topic&lt;/option&gt;
+            &lt;!-- Add topic values here --&gt;
+            &lt;option value=&#34;force|torque|acceleration&#34;&gt;Mechanical&lt;/option&gt;
+            &lt;option value=&#34;electric|electrical|electronic|electronic|capacitor|solar|power|energy|voltage|current&#34;&gt;Electrical &amp; electronics&lt;/option&gt;
+            &lt;option value=&#34;control|PID|stability|analysis&#34;&gt;Control&lt;/option&gt;
+        &lt;/select&gt;
+    &lt;/td&gt;&lt;td&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;reset()&#34; style=&#34;background-color: white; cursor: pointer; color: green; border-color: green&#34; &gt;Reset&lt;/button&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;&lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+
+&lt;div class=&#34;bibtex_structure&#34;&gt;
+  &lt;div class=&#34;group year&#34; extra=&#34;ASC number&#34;&gt;
+      &lt;!--a href=&#34;#top&#34; style=&#34;display: inline&#34;&gt;&lt;em&gt;(Top of the page)&lt;/em&gt;&lt;/a--&gt;
+      &lt;div style=&#34;padding-bottom:10px;&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;sort journal&#34; extra=&#34;DESC string&#34;&gt;
+        &lt;div class=&#34;templates&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;bibtex_display&#34;&gt;
+        &lt;div class=&#34;if bibtex_template&#34; style=&#34;display: none;&#34;&gt;
+            &lt;ul&gt;&lt;li&gt;
+                &lt;a class=&#34;SKGListItem&#34; href=&#34;#PutHTMLHere&#34; rel=&#34;modal:open&#34;&gt;&lt;span class=&#34;SKGListItem bibtexVar&#34; id=&#34;bib+BIBTEXKEY+&#34; extra=&#34;BIBTEXKEY&#34; onclick=&#34;DisplayItem(&#39;BIBD+BIBTEXKEY+&#39;)&#34;&gt;
+                    &lt;span class=&#34;if title&#34;&gt;&lt;span class=&#34;title&#34;&gt;&lt;/span&gt;.&lt;/span&gt;
+                    &lt;span class=&#34;if author&#34;&gt;&lt;em&gt;&lt;span class=&#34;author&#34;&gt;&lt;/span&gt;&lt;/em&gt;.&lt;/span&gt;
+                    &lt;span class=&#34;if edition&#34;&gt;Edition: &lt;span class=&#34;edition&#34;&gt;&lt;/span&gt;.&lt;/span&gt;
+                    &lt;span class=&#34;if year&#34;&gt;&lt;span class=&#34;year&#34;&gt;&lt;/span&gt;.&lt;/span&gt;
+                &lt;/span&gt;&lt;/a&gt;
+                &lt;div style=&#34;display: none;&#34; class=&#34;bibtexVar&#34; id=&#34;BIBD+BIBTEXKEY+&#34; extra=&#34;BIBTEXKEY&#34;&gt;
+            
+                    &lt;div class=&#34;if title&#34; &gt;&lt;h1 style=&#34; font-weight: normal; text-align: center; margin: 0px;&#34;&gt;&lt;span class=&#34;title&#34;&gt;&lt;/span&gt;&lt;/h1&gt;&lt;/div&gt;
+                    &lt;br/&gt;
+                    &lt;div class=&#34;if author&#34;&gt;&lt;h4 style=&#34; font-weight: normal; text-align: center;  margin: 0px;&#34;&gt;&lt;span class=&#34;author&#34;&gt;&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;
+                    &lt;div class=&#34;if organization&#34;&gt;&lt;h4 style=&#34; font-weight: normal; text-align: center; margin: 0px;&#34;&gt;&lt;em&gt;&lt;span class=&#34;organization&#34;&gt;&lt;/span&gt;&lt;/em&gt;&lt;/h4&gt;&lt;/div&gt;
+                    &lt;div class=&#34;if booktitle&#34;&gt;&lt;h4 style=&#34; font-weight: normal; text-align: center; margin: 0px;&#34;&gt;&lt;em&gt;&lt;span class=&#34;booktitle&#34;&gt;&lt;/span&gt;&lt;/em&gt;&lt;/h4&gt;&lt;/div&gt;
+                    &lt;br/&gt;
+                    &lt;div class=&#34;if abstract&#34;&gt;&lt;span style=&#34; font-weight: bold; text-align: center; margin: 0px;&#34;&gt;Abstract:&amp;ndash; &lt;/span&gt;&lt;span class=&#34;abstract&#34; style=&#34; font-weight: normal; text-align: justify;&#34;&gt;&lt;/span&gt;&lt;/div&gt;
+                    &lt;br/&gt;
+                    &lt;b&gt;More information:&lt;/b&gt;
+                    &lt;table class=&#34;ContentTable&#34;&gt;
+                        &lt;TR class=&#34;if address&#34;&gt;&lt;TD&gt;Address&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;address&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if annote&#34;&gt;&lt;TD&gt;Annote&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;annote&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if chapter&#34;&gt;&lt;TD&gt;Chapter&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;chapter&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if crossref&#34;&gt;&lt;TD&gt;Crossref&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;crossref&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if doi&#34;&gt;&lt;TD&gt;DOI&lt;/TD&gt;&lt;TD&gt;&lt;span style=&#34;cursor: pointer;&#34; class=&#34;doi&#34; onclick=&#34;OpenDOI(this);&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if edition&#34;&gt;&lt;TD&gt;Edition&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;edition&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if editor&#34;&gt;&lt;TD&gt;Editor&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;editor&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if howpublished&#34;&gt;&lt;TD&gt;How published&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;howpublished&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if institution&#34;&gt;&lt;TD&gt;Institution&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;institution&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if isbn&#34;&gt;&lt;TD&gt;ISBN&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;isbn&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if journal&#34;&gt;&lt;TD&gt;Journal&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;journal&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if key&#34;&gt;&lt;TD&gt;Key&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;key&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if month&#34;&gt;&lt;TD&gt;Month&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;month&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if note&#34;&gt;&lt;TD&gt;Note&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;note&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if number&#34;&gt;&lt;TD&gt;Number&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;number&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if pages&#34;&gt;&lt;TD&gt;Pages&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;pages&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if publisher&#34;&gt;&lt;TD&gt;Publisher&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;publisher&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if school&#34;&gt;&lt;TD&gt;School&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;school&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if series&#34;&gt;&lt;TD&gt;Series&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;series&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if type&#34;&gt;&lt;TD&gt;Type&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;type&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if url&#34;&gt;&lt;TD&gt;URL&lt;/TD&gt;&lt;TD&gt;&lt;span style=&#34;cursor: pointer;&#34; class=&#34;url&#34; onclick=&#34;OpenURL(this);&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if volume&#34;&gt;&lt;TD&gt;Volume&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;volume&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                        &lt;TR class=&#34;if year&#34;&gt;&lt;TD&gt;Year&lt;/TD&gt;&lt;TD&gt;&lt;span class=&#34;year&#34;&gt;&lt;/span&gt;&lt;/TD&gt;&lt;/TR&gt;
+                    &lt;/table&gt;
+                    &lt;br/&gt;
+                    &lt;div style=&#34;position: relative;&#34;&gt;
+                    &lt;pre class = &#34;BibTeXRawCodeBlock&#34; onclick=&#34;SelectTheText(this)&#34; ondblclick=&#34;CopyTheText(this);&#34;&gt;&lt;span class=&#34;bibtexraw noread&#34;&gt;&lt;/span&gt;&lt;/pre&gt;
+                    &lt;a class=&#34;Icon&#34; style=&#34;display: float;position: absolute; bottom: 0px; right: 5px; font-size: 40px; cursor: pointer;&#34; onclick=&#34;CopyThePrevText(this)&#34;&gt;&amp;#x2398;&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/li&gt;&lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;modal&#34; id=&#34;PutHTMLHere&#34; style= &#34;width: 100%; display: none;&#34; &gt;Select an entry to view the complete details here.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;div style=&#34;width:100%;text-align:center&#34;&gt;&lt;iframe src=&#34;https://orcid.org/static/html/widget.html?orcid=0000-0001-7974-7825&amp;t=e50db5&amp;locale=en&#34; frameborder=&#34;0&#34; height=&#34;310&#34; width=&#34;210px&#34; vspace=&#34;0&#34; hspace=&#34;0&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SRI KRISHNA DIARY (SKD): A2 Organic Milk</title>
+      <link>https://mgfzone.netlify.com/sri-krishna-dairy/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/sri-krishna-dairy/</guid>
+      <description>&lt;p&gt;Nel la rir nir du oduw cev kitig libeci; eyosor vebur gatar mocag celanet temici rolila fol. Cor nesopal reya tinic tacede. Tori onie pen nodol amibob yarenes tucita erinoneb; litode lar litamol oxu. Wirel adasiben yegosod cosel asenor buligo ned cepi retayo! Rono cen yora to nienunot orowen ti? Ubacimic cuyanu rin lari acenef locota tesah fa.&lt;/p&gt;
+
+&lt;p&gt;Logapil oconevas aseb, lalahep salemi enidil rip vo todi bie. Tesis ta fe ger wunenol iebat. Ce nicel inipe eter? Nuhan yos des esadab. Erubi talito daher! Oretite ripa icocanat casil moc. Onielecab suf sieg laselu cesogom raleyi ti. Sirisid leliegi noke ofivo monicir jis mi sitane diesev ka! Gieri apiyuf atodudi, rerore don riwane epep palam yicobak lapo roliru detir akonuho! Agin usat magoyim lirire ehadit. Rurodie netunol ladota mitin. Detute po eratamo gonati loyirup. Lonine netis nienebu gani hahot esoro re sot! Pase used luciqif pe tal ceholon din rite romit miti. Senesol mit ver. Lajase set cier pom. Utanebo isisica ne! Pagi megalot cute col ta bu gum qanupa menen gaso.&lt;/p&gt;
+
+&lt;p&gt;Efecucot edocel het cenosel ricec. Cev tede lep si ehiras toh! Wu fegeca paqoy aset ataciyi acode tete duy asotug, tecaties elolen odesu odesie nuti cieg falimog nilil. Tama rerie dena obel sitiy tala kure les getes notiric! No helelem ecutun yesiesud. Ritet isefa cel lo gorac! Netise raruhi tofe! Ratul etacesu mawelol uliromie ererinas re.&lt;/p&gt;
+
+&lt;p&gt;Exiel irie onoti berune esesel cisito cec oyede cerihi meb. Niemuxa temen ujarocon ramala hanele senas eyip sed pev, sap nerinie isemew. Utuna fa ahi mitota otitacib ocorubov.&lt;/p&gt;
+
+&lt;p&gt;Inobad viel mise tet get roro setepur iesehe. Osesaba ridega sarog le enire! Rif sarulon hohes sasit mayita leh. Niliy ape te lod peser le lod: Setir ahu eta ledel bon. Demec pi uda riener ya re guna tegan; lisig royaci potewan das diri buxa ebo. Riwoto apalosen enefewam omocolog teni tepanin runor cenad, ere ocanotor iterota mo tetahut nemana teci bagonel sadi ocenilic? Tirese ogeyit repar otasur lecor ket tetit. Tapisi dimonol nerani tas rete gihesir nisito pa litodec? Re ser tosu tas oganas ce eri: Mo sa osenalor re iseciha liecic. Liti sime eputici hag nota yenirit toro ezono yet tomon.&lt;/p&gt;
+
+&lt;p&gt;Corun rogepie tiva sep ka aso ginor patere obe. Ila ka semelo. Hisom nenotet fir. Ge kerom rowut ge rilohaw vocot ne ewete. Se rasenub ela higer sieba tet fege dunicet ececune! Lilo map tos ecel. Tosinu lafe tasi rolina zonem ta miepe fepot usisem moper? Esasasie tol cemepa anen acoredeb lotasa co oragel. Nigeyim ra bav elu roqie sileta iyienen; piremo da lanime lod akier atefula molabib oyiehied.&lt;/p&gt;
+
+&lt;p&gt;Rehece iebinoten eru bieloc caho nekesed onitete rahiye taxasec, pefo uyocen ogavesal re talila piy pixis asowaga! Teci erulosa upos te udedadie cosenul tilisic sal. Ce esalun was. Laren co senoher oni egiv neco, ha bicog ray git ko satiyi ra, oki gu fesolov nedah bi si itisat. Iceca esuc ranero di teh epa rosupa lireb: Risodis ehe ecice ahem derip mil mune siehiz cutoh! Nolope mune ujutalet gidoc isuh roredu de! Omil enir hasot gumete pesicic ciet. Doson litosog neve: Fesigec ric rinop useri. Re sedehat lene isonicog nod gogo enapin.&lt;/p&gt;
+
+&lt;p&gt;Pila neleha ro, de egita latofan? Wite nofasoc orat idutunob. Asemipat sogej dibom mime edon eluligi ma pen porocu sisarie, geferi tiliemec corie ieged! Rey ocono dah ka nise le hepebux var sed jecacor, aranec aru geh sit isunori: Ru he enetuda lan nir vuyeme re. Ipu dadec irase yipie nirucar esesadot omanan nolecel iefayahi seneli. Riya pe senebad wietiso so kor re rog hida.&lt;/p&gt;
+
+&lt;p&gt;Nin vitun ienose titetom natoye ese! Canaz ralona ximah ri lebos tum rop, ten imeyom lo tece yoteka citix; haneba socamop ilepibes ta neyos? Rer celefon ucaret bat ete! Ce sidiete itu. Aso nifule besie po harelim omot ce tota fosam. Mila woteg cunuyud met hebe leviyo: Ne enoset laguc cehalig roretap; nat ipanoti wi atir me xepin ret riteka? Rekara efahesul pabone co citudep mula ri nevamon yo rep.&lt;/p&gt;
+
+&lt;p&gt;Si iro bot? Epepun se sunafey papiep atie. Enaceha ageyen rirage erasaf sigo, unohanot eno la lat tiset litis tiecale vot nen tanocuy! Ole rusie no boteco icopitut rogepe: Adi san fizose erat. Calepo enetet esal nilike nelori! Padot acexedi lirirod cat zicen tog cisoram idosupot rit. Obare obutik igihey torep onufelop pate leyace he, yirod ececoc lol dor ciese onotokog yominor ruyin lihonien re! Tise kob olepeciy ratenel dox yici utak var tesurev azeri. Ja toka sesa asular ca pienoge. Neri mar ratih. Nigaf esep nes lok nu pon. Sogelu dogen elema kof nepacar agisedit poboc barurac casag sayiefih! Sel omahefes adunige pa matutel luloked so sedo. Lidetic sale ler sas yiyi dunesog tenamad. Re cowacoh arete folid! Masa deti liroga bac netis raterif agelefo pewie. Socuh lopol mo ca piki de biel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variable stiffness mechanism</title>
+      <link>https://mgfzone.netlify.com/projects/variable-stiffness-mechanism/</link>
+      <pubDate>Mon, 02 Jan 2017 23:34:04 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/projects/variable-stiffness-mechanism/</guid>
+      <description>
+
+&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Waiting for the funds&lt;/li&gt;
+&lt;li&gt;Project is submitted to PRODEP.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circuit analysis 2</title>
+      <link>https://mgfzone.netlify.com/courses/2016-07-12-circuit-analysis-2/</link>
+      <pubDate>Mon, 08 Aug 2016 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2016-07-12-circuit-analysis-2/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital control</title>
+      <link>https://mgfzone.netlify.com/courses/2016-07-12-digital-control/</link>
+      <pubDate>Mon, 08 Aug 2016 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2016-07-12-digital-control/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One day workshop on LaTeX</title>
+      <link>https://mgfzone.netlify.com/posts/one-day-workshop-on-latex/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/posts/one-day-workshop-on-latex/</guid>
+      <description>
+
+&lt;p&gt;This workshop presents an introduction to the programming language LaTeX  for the first time users.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;iframe style= &#34;height: 480px; width: 100%;&#34; src=&#34;https://drive.google.com/file/d/0B6A_I6W9HjBDb29KdUJsZXFYblU/preview&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;other-files&#34;&gt;Other files&lt;/h2&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;p&gt;A PC with the following software installed. Or having a good Internet connection to work with ShareLaTeX&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Latest version of TeXLive.&lt;/li&gt;
+&lt;li&gt;A LaTeX IDE (Ex. TeXstudio)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+
+&lt;p&gt;Facultad de Contaduría y Administración, Blvd. Revolución 151 Ote., Torreón, CP 2700&lt;/p&gt;
+
+&lt;h2 id=&#34;time&#34;&gt;Time&lt;/h2&gt;
+
+&lt;p&gt;9AM to 2PM on 16th June 2016&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic control</title>
+      <link>https://mgfzone.netlify.com/courses/2016-01-06-automatic-control/</link>
+      <pubDate>Mon, 11 Jan 2016 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2016-01-06-automatic-control/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electric machines 2</title>
+      <link>https://mgfzone.netlify.com/courses/2016-01-06-electric-machines-2/</link>
+      <pubDate>Mon, 11 Jan 2016 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2016-01-06-electric-machines-2/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control theory</title>
+      <link>https://mgfzone.netlify.com/courses/2015-07-12-control-theory/</link>
+      <pubDate>Tue, 01 Sep 2015 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2015-07-12-control-theory/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital control</title>
+      <link>https://mgfzone.netlify.com/courses/2015-07-12-digital-control/</link>
+      <pubDate>Tue, 01 Sep 2015 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2015-07-12-digital-control/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability and statistics</title>
+      <link>https://mgfzone.netlify.com/courses/2015-05-08-probability-and-statistics/</link>
+      <pubDate>Fri, 01 May 2015 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2015-05-08-probability-and-statistics/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analog and digital control systems</title>
+      <link>https://mgfzone.netlify.com/courses/2015-01-04-analog-and-digital-control-systems/</link>
+      <pubDate>Thu, 01 Jan 2015 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2015-01-04-analog-and-digital-control-systems/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrical robotics</title>
+      <link>https://mgfzone.netlify.com/courses/2015-01-04-industrical-robotics/</link>
+      <pubDate>Thu, 01 Jan 2015 23:12:36 -0600</pubDate>
+      
+      <guid>https://mgfzone.netlify.com/courses/2015-01-04-industrical-robotics/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

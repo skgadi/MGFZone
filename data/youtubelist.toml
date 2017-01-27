@@ -1,16 +1,22 @@
-skdids = [
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"a4_CQ50OtUA",
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"SUgj0BxGKGY",
-"OGqvI6vDUqU",
-"a4_CQ50OtUA"
+SKGVideos = [
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"SUgj0BxGKGY",
+]
+
+SKGInformationIDs = [
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"a4_CQ50OtUA",
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"SUgj0BxGKGY",
+	"OGqvI6vDUqU",
+	"a4_CQ50OtUA"
 ]
