@@ -1,0 +1,48 @@
+{{ partial "head.html" . }}
+{{ partial "navbar.html" . }}
+<div class=" w3-display-container" style="margin: auto; width: 90%; margin-top: 85px;">
+<p><b>{{ .Title }}</b> <br/> {{ .Description }} </p>
+<div class="w3-container">
+	<ul class="w3-navbar w3-theme">
+		<li><a href="javascript:void(0)" class="tablink w3-blue" onclick="ChangeTabContent(event, 'About');">About</a></li>
+
+		{{ if eq $.Params.ShortCode "SKD" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.SKGTabs }}{{ end }} {{ if eq $.Params.ShortCode "OrF" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.OrFTabs }}{{ end }} {{ if eq $.Params.ShortCode "CNS" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.CNSTabs }}{{ end }} {{ .Scratch.Set "GSKCount" 1 }} {{ range $.Scratch.Get "GSKTabsList" }} <li><a href="javascript:void(0)" class="tablink" onclick="ChangeTabContent(event, '{{ . }}');">{{ . }}</a></li> {{ end }}
+	</ul>
+	<div id="TabContent" class="w3-container w3-border page">
+		{{ .Content }}
+	</div>
+</div>
+<script>
+function ChangeTabContent (evt, pageName){
+	var TabContent;
+	TabContent = document.getElementById("TabContent");
+	if (pageName == "Videos") {
+		TabContent.innerHTML = '{{ if eq $.Params.ShortCode "SKD" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.SKGVideos }}{{ end }} {{ if eq $.Params.ShortCode "OrF" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.OrFVideos }}{{ end }} {{ if eq $.Params.ShortCode "CNS" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.CNSVideos }}{{ end }} {{ .Scratch.Set "GSKCount" 1 }} <div class="w3-row-padding"> {{ range $.Scratch.Get "GSKVideosList" }} <div class="w3-col m4 l4 w3-hover-shadow"> <div class="w3-card-4 w3-padding w3-theme-l3 w3-margin"> <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allowfullscreen></iframe> <p>Video ID: {{ $.Scratch.Get "GSKCount" }}</p> {{ $.Scratch.Add "GSKCount" 1 }} </div></div> {{ end }} </div>';
+	}
+	if (pageName == "Information") {
+		TabContent.innerHTML = '{{ if eq $.Params.ShortCode "SKD" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.SKGInformationIDs }}{{ end }} {{ if eq $.Params.ShortCode "OrF" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.OrFInformationIDs }}{{ end }} {{ if eq $.Params.ShortCode "CNS" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.youtubelist.CNSInformationIDs }}{{ end }} {{ .Scratch.Set "GSKCount" 1 }} <div class="w3-row-padding"> {{ range $.Scratch.Get "GSKVideosList" }} <div class="w3-col m4 l4 w3-hover-shadow"> <div class="w3-card-4 w3-padding w3-theme-l3 w3-margin"> <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allowfullscreen></iframe> <p>Video ID: {{ $.Scratch.Get "GSKCount" }}</p> {{ $.Scratch.Add "GSKCount" 1 }} </div></div> {{ end }} </div>';
+	}
+	if (pageName == "Report") {
+		TabContent.innerHTML = '<iframe src="https://docs.google.com/forms/d/e/{{ $.Params.ReportsID }}/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>';
+	}
+	if (pageName == "Facebook") {
+		TabContent.innerHTML = '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F{{ $.Params.FacebookPage }}&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>';
+	}
+	if (pageName == "Photos") {
+		TabContent.innerHTML = '{{ if eq $.Params.ShortCode "SKD" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.imageslist.SKGImages }}{{ end }} {{ if eq $.Params.ShortCode "OrF" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.imageslist.OrFImages }}{{ end }} {{ if eq $.Params.ShortCode "CNS" }}{{ .Scratch.Set "GSKVideosList" $.Site.Data.imageslist.CNSImages }}{{ end }} {{ .Scratch.Set "GSKCount" 1 }} <div class="w3-row-padding"> {{ range $.Scratch.Get "GSKVideosList" }} <div class="w3-col m4 l4 w3-hover-shadow"> <div class="w3-card-4 w3-padding w3-theme-l3 w3-margin"> <img src="{{ $.Site.BaseURL }}images/20161029/{{ . }}" style="width: 100%; height: 300px; object-fit: cover;" /> <p>Photo ID: {{ $.Scratch.Get "GSKCount" }}</p> {{ $.Scratch.Add "GSKCount" 1 }} </div></div> {{ end }} </div>';
+	}
+	if (pageName == "About") {
+		TabContent.innerHTML = '{{ .Content }}';
+	}
+	if (pageName == "Pricing") {
+		TabContent.innerHTML = '<iframe style="width: 100%; height: 500px;" src="https://docs.google.com/spreadsheets/d/{{ .Params.PriceList }}/pubhtml?widget=true&amp;headers=false"></iframe>';
+	}
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" w3-blue", "");
+  }
+  evt.currentTarget.className += " w3-blue";
+}
+</script>
+</div>
+{{ partial "footer.html" . -}}

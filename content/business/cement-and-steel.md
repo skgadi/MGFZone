@@ -1,10 +1,10 @@
 +++
 
 date = "2017-01-07T00:00:00-06:00"
-title = "SRI KRISHNA DIARY (SKD): A2 Organic Milk"
-description = "The difference between the milk protein in A1 and A2 milk is only one amino acid but this little difference potentially impacts how our bodies digest the milk. With its natural golden color and amazing nutritional benefits, A2 milk is the way milk should look, taste and be enjoyed- as nature originally intended."
+title = "CEMENT AND STEEL"
+description = "Cement and steel text"
 PriceList = "1wikbbW6yX6AxuCNmwBsVj6PG9WaXCd6dohcrcdXzw4o"
-ShortCode = "SKD"
+ShortCode = "CNS"
 FacebookPage = "skdvizag"
 PhotosAlbum = "72157679520489716"
 +++

@@ -2,23 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mgfzone.com/cement-and-steel/</loc>
+    <loc>https://mgfzone.com/about/</loc>
     <lastmod>2017-01-07T00:00:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mgfzone.com/organic-farming/</loc>
+    <loc>https://mgfzone.com/business/cement-and-steel/</loc>
     <lastmod>2017-01-07T00:00:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mgfzone.com/sri-krishna-dairy/</loc>
+    <loc>https://mgfzone.com/career/</loc>
+    <lastmod>2017-01-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgfzone.com/contact/</loc>
+    <lastmod>2017-01-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgfzone.com/business/organic-farming/</loc>
+    <lastmod>2017-01-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgfzone.com/business/sri-krishna-dairy/</loc>
+    <lastmod>2017-01-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgfzone.com/team/</loc>
     <lastmod>2017-01-07T00:00:00-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://mgfzone.com/projects/variable-stiffness-mechanism/</loc>
     <lastmod>2017-01-02T23:34:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgfzone.com/business/</loc>
+    <lastmod>2017-01-07T00:00:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

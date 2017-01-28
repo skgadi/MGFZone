@@ -1,0 +1,19 @@
+SKGTabs = [
+	"Photos",
+	"Videos",
+	"Pricing",
+	"Facebook",
+	"Information",
+	"Report",
+]
+
+OrFTabs = [
+	"Photos",
+	"Videos",
+	"Pricing",
+	"Facebook",
+	"Information",
+]
+
+CNSTabs = [
+]
