@@ -6,6 +6,15 @@ WhatsApp <img src="{{ .Site.BaseURL }}images/whatsapp-logo.gif" style="height: 2
 </p>
 <small><div class="w3-left-align" style="display: inline; float: left;"><span>&copy; Copyright All Rights Reserved.</span></div><div class="w3-right-align" style="display: inline; float: right;"><span>Prepared by <a href="http://skgadi.com/">SKGadi</a>.</span></div></small>
 </footer>
-
+<script>
+function MobileNavButtonPress() {
+	var x = document.getElementById("GSKNavBar");
+	if (x.className.indexOf("w3-show") == -1) {
+		x.className += " w3-show";
+	} else {
+		x.className = x.className.replace(" w3-show", "");
+	}
+}
+</script>
 </body>
 </html>

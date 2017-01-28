@@ -11,6 +11,89 @@
     <atom:link href="https://mgfzone.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>https://mgfzone.com/contact/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://mgfzone.com/contact/</guid>
+      <description>&lt;div class=&#34;w3-row&#34;&gt;
+&lt;div class=&#34;w3-col s12 m8 l8&#34;&gt;
+&lt;form name=&#34;contact&#34; class=&#34;w3-container w3-card-4 w3-light-grey w3-text-theme w3-margin&#34; netlify&gt;
+&lt;h2 class=&#34;w3-center&#34;&gt;Send us an email&lt;/h2&gt;
+ 
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-user&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;input class=&#34;w3-input w3-border&#34; name=&#34;name&#34; type=&#34;text&#34; placeholder=&#34;Name&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-envelope-o&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;input class=&#34;w3-input w3-border&#34; name=&#34;email&#34; type=&#34;text&#34; placeholder=&#34;Email&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-phone&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;input class=&#34;w3-input w3-border&#34; name=&#34;phone&#34; type=&#34;text&#34; placeholder=&#34;Phone&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-pencil&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;input class=&#34;w3-input w3-border&#34; name=&#34;message&#34; type=&#34;text&#34; placeholder=&#34;Message&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button class=&#34;w3-btn-block w3-section w3-theme w3-ripple w3-padding&#34;&gt;Send&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/form&gt;
+&lt;/div&gt;
+&lt;div class=&#34;w3-col s12 m4 l4&#34;&gt;
+&lt;div class=&#34;w3-card-4&#34;&gt;&lt;/p&gt;
+
+&lt;header class=&#34;w3-container w3-theme&#34;&gt;
+  &lt;p&gt;ADDRESS&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;div class=&#34;w3-container w3-text-theme&#34;&gt;
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-map-marker&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;p&gt;MGF, Dimili, Elamanchili, Visakhapatnam, Andhra Pradesh, India.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class=&#34;w3-container w3-text-theme&#34;&gt;
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-envelope-o&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;p&gt;mgfzone@gmail.com&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class=&#34;w3-container w3-text-theme&#34;&gt;
+&lt;div class=&#34;w3-row w3-section&#34;&gt;
+  &lt;div class=&#34;w3-col&#34; style=&#34;width:50px&#34;&gt;&lt;i class=&#34;w3-xxlarge fa fa-phone&#34;&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class=&#34;w3-rest&#34;&gt;
+      &lt;p&gt;+91 9640876423&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About MGF</title>
       <link>https://mgfzone.com/about/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 -0600</pubDate>
@@ -59,38 +142,6 @@
       
       <guid>https://mgfzone.com/career/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies ullamcorper est, in auctor augue tempor sed. Cras efficitur tellus dapibus bibendum euismod. Nunc sodales, nibh at sagittis volutpat, mi lectus porttitor neque, nec feugiat dolor ante sed lectus. Vestibulum elementum sapien dolor. Quisque iaculis urna quis egestas aliquam. Praesent feugiat leo vel quam venenatis, sit amet auctor dui consectetur. Proin diam sem, molestie sit amet tempor non, malesuada ac sem. Sed vehicula massa id venenatis fringilla. Ut non pretium nunc. Curabitur at lorem sem.&lt;/p&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce luctus luctus nunc, sed condimentum felis ornare congue. Integer at mattis nunc, elementum dictum tellus. Proin efficitur suscipit sem, id maximus ante facilisis efficitur. Nunc tristique mi metus, pretium tincidunt nulla feugiat ut. Fusce quis posuere risus.&lt;/p&gt;
-
-&lt;p&gt;Etiam congue metus nec faucibus accumsan. Aenean vulputate sem turpis, dictum hendrerit diam sodales in. Sed efficitur tristique diam a euismod. Curabitur erat dolor, tristique in risus id, pellentesque mollis felis. In non lectus ut ipsum pulvinar tempus eget vitae nulla. Sed sit amet purus arcu. Vivamus venenatis, diam eget laoreet malesuada, odio felis bibendum ex, eget pellentesque tortor erat ut metus. Nunc aliquam non nibh at feugiat. Pellentesque ac viverra libero. Donec maximus hendrerit nulla, eget volutpat ipsum hendrerit faucibus. Nunc vel nunc dolor. Morbi et ex ultrices, tincidunt neque eget, venenatis nisl.&lt;/p&gt;
-
-&lt;p&gt;Mauris justo sem, pellentesque sed purus a, viverra imperdiet metus. Aenean vehicula et lectus sit amet lacinia. Ut suscipit risus risus, ac dignissim mi dictum eget. Integer varius finibus tortor, non posuere libero lobortis sed. Praesent venenatis mauris eu urna aliquam, eu mattis leo egestas. Nunc interdum nunc eget fringilla lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin enim velit, porta hendrerit eros nec, tempus rhoncus quam. Quisque a justo sollicitudin erat facilisis suscipit eget a magna. Phasellus ullamcorper massa a lorem dictum, eget eleifend arcu sodales. Sed tempus dictum turpis quis tempor. Morbi et massa vel augue bibendum feugiat non id nibh. Sed suscipit leo nulla, ut cursus lacus bibendum porttitor. Nam blandit nisl id ex aliquam, at luctus diam auctor.&lt;/p&gt;
-
-&lt;p&gt;Maecenas malesuada et mauris nec placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc mattis ornare orci ut euismod. Aenean sed justo ac metus auctor hendrerit. Integer accumsan orci eget urna venenatis vulputate. Nunc porta dignissim neque, in facilisis mi. In hac habitasse platea dictumst. Phasellus at sapien vitae felis convallis lobortis non quis velit. Aliquam venenatis interdum eros, quis sodales odio lacinia nec. Donec laoreet auctor purus vitae malesuada. Donec eleifend velit id lacus gravida, in eleifend purus fringilla. Mauris venenatis in ex tempus semper. Morbi commodo odio aliquam massa dapibus, vestibulum placerat libero pharetra. Vivamus mattis tempus nulla non cursus.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://mgfzone.com/contact/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://mgfzone.com/contact/</guid>
-      <description>&lt;form name=&#34;contact&#34; netlify netlify-honeypot=&#34;bot-field&#34;&gt;
-  &lt;p&gt;&lt;label&gt;Email: &lt;input name=&#34;email&#34;&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p class=&#34;hidden&#34;&gt;&lt;label&gt;Bot field: &lt;input name=&#34;bot-field&#34;&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;label&gt;Message: &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;button&gt;Send&lt;/button&gt;&lt;/p&gt;
-&lt;/form&gt;
-
-&lt;form name=&#34;contact&#34; netlify netlify-honeypot=&#34;bot-field&#34;&gt;
-  &lt;p&gt;&lt;label&gt;Email: &lt;input name=&#34;email&#34;&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p class=&#34;hidden&#34;&gt;&lt;label&gt;Bot field: &lt;input name=&#34;bot-field&#34;&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;label&gt;Message: &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;button&gt;Send&lt;/button&gt;&lt;/p&gt;
-&lt;/form&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies ullamcorper est, in auctor augue tempor sed. Cras efficitur tellus dapibus bibendum euismod. Nunc sodales, nibh at sagittis volutpat, mi lectus porttitor neque, nec feugiat dolor ante sed lectus. Vestibulum elementum sapien dolor. Quisque iaculis urna quis egestas aliquam. Praesent feugiat leo vel quam venenatis, sit amet auctor dui consectetur. Proin diam sem, molestie sit amet tempor non, malesuada ac sem. Sed vehicula massa id venenatis fringilla. Ut non pretium nunc. Curabitur at lorem sem.&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce luctus luctus nunc, sed condimentum felis ornare congue. Integer at mattis nunc, elementum dictum tellus. Proin efficitur suscipit sem, id maximus ante facilisis efficitur. Nunc tristique mi metus, pretium tincidunt nulla feugiat ut. Fusce quis posuere risus.&lt;/p&gt;
 

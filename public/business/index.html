@@ -16,7 +16,7 @@
 <div id="HeaderContainer" class="w3-top">
 <ul class="w3-navbar w3-white w3-left-align  w3-small w3-bottombar w3-padding-16">
 	<li class="w3-hide-medium w3-hide-large w3-white w3-opennav w3-right">
-		<a href="javascript:void(0);" onclick="myFunction()">☰</a>
+		<a href="javascript:void(0);" onclick="MobileNavButtonPress()"><i class="w3-xlarge fa fa-bars"></i></a>
 	</li>
 	<li><a href="/"><img src="https://mgfzone.com/images/logo.png" style="width: 90px;" /></a></li>
 	<li class="w3-hide-small w3-right"><a href="https://mgfzone.com/contact">CONTACT</a></li>
@@ -84,6 +84,15 @@ WhatsApp <img src="https://mgfzone.com/images/whatsapp-logo.gif" style="height: 
 </p>
 <small><div class="w3-left-align" style="display: inline; float: left;"><span>&copy; Copyright All Rights Reserved.</span></div><div class="w3-right-align" style="display: inline; float: right;"><span>Prepared by <a href="http://skgadi.com/">SKGadi</a>.</span></div></small>
 </footer>
-
+<script>
+function MobileNavButtonPress() {
+	var x = document.getElementById("GSKNavBar");
+	if (x.className.indexOf("w3-show") == -1) {
+		x.className += " w3-show";
+	} else {
+		x.className = x.className.replace(" w3-show", "");
+	}
+}
+</script>
 </body>
 </html>

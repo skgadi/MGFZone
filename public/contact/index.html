@@ -16,7 +16,7 @@
 <div id="HeaderContainer" class="w3-top">
 <ul class="w3-navbar w3-white w3-left-align  w3-small w3-bottombar w3-padding-16">
 	<li class="w3-hide-medium w3-hide-large w3-white w3-opennav w3-right">
-		<a href="javascript:void(0);" onclick="myFunction()">☰</a>
+		<a href="javascript:void(0);" onclick="MobileNavButtonPress()"><i class="w3-xlarge fa fa-bars"></i></a>
 	</li>
 	<li><a href="/"><img src="https://mgfzone.com/images/logo.png" style="width: 90px;" /></a></li>
 	<li class="w3-hide-small w3-right"><a href="https://mgfzone.com/contact">CONTACT</a></li>
@@ -67,32 +67,83 @@
 
 <div class=" w3-display-container" style="margin: auto; width: 90%; margin-top: 85px;">
 
-<h1>Contact</h1>
-<p>Contact us</p>
+<h1></h1>
+<p></p>
 
-<form name="contact" netlify netlify-honeypot="bot-field">
-  <p><label>Email: <input name="email"></label></p>
-  <p class="hidden"><label>Bot field: <input name="bot-field"></label></p>
-  <p><label>Message: <textarea name="message"></textarea></label></p>
-  <p><button>Send</button></p>
-</form>
+<div class="w3-row">
+<div class="w3-col s12 m8 l8">
+<form name="contact" class="w3-container w3-card-4 w3-light-grey w3-text-theme w3-margin" netlify>
+<h2 class="w3-center">Send us an email</h2>
+ 
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-user"></i></div>
+    <div class="w3-rest">
+      <input class="w3-input w3-border" name="name" type="text" placeholder="Name">
+    </div>
+</div>
 
-<form name="contact" netlify netlify-honeypot="bot-field">
-  <p><label>Email: <input name="email"></label></p>
-  <p class="hidden"><label>Bot field: <input name="bot-field"></label></p>
-  <p><label>Message: <textarea name="message"></textarea></label></p>
-  <p><button>Send</button></p>
-</form>
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-envelope-o"></i></div>
+    <div class="w3-rest">
+      <input class="w3-input w3-border" name="email" type="text" placeholder="Email">
+    </div>
+</div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies ullamcorper est, in auctor augue tempor sed. Cras efficitur tellus dapibus bibendum euismod. Nunc sodales, nibh at sagittis volutpat, mi lectus porttitor neque, nec feugiat dolor ante sed lectus. Vestibulum elementum sapien dolor. Quisque iaculis urna quis egestas aliquam. Praesent feugiat leo vel quam venenatis, sit amet auctor dui consectetur. Proin diam sem, molestie sit amet tempor non, malesuada ac sem. Sed vehicula massa id venenatis fringilla. Ut non pretium nunc. Curabitur at lorem sem.</p>
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-phone"></i></div>
+    <div class="w3-rest">
+      <input class="w3-input w3-border" name="phone" type="text" placeholder="Phone">
+    </div>
+</div>
 
-<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce luctus luctus nunc, sed condimentum felis ornare congue. Integer at mattis nunc, elementum dictum tellus. Proin efficitur suscipit sem, id maximus ante facilisis efficitur. Nunc tristique mi metus, pretium tincidunt nulla feugiat ut. Fusce quis posuere risus.</p>
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-pencil"></i></div>
+    <div class="w3-rest">
+      <input class="w3-input w3-border" name="message" type="text" placeholder="Message">
+    </div>
+</div>
 
-<p>Etiam congue metus nec faucibus accumsan. Aenean vulputate sem turpis, dictum hendrerit diam sodales in. Sed efficitur tristique diam a euismod. Curabitur erat dolor, tristique in risus id, pellentesque mollis felis. In non lectus ut ipsum pulvinar tempus eget vitae nulla. Sed sit amet purus arcu. Vivamus venenatis, diam eget laoreet malesuada, odio felis bibendum ex, eget pellentesque tortor erat ut metus. Nunc aliquam non nibh at feugiat. Pellentesque ac viverra libero. Donec maximus hendrerit nulla, eget volutpat ipsum hendrerit faucibus. Nunc vel nunc dolor. Morbi et ex ultrices, tincidunt neque eget, venenatis nisl.</p>
+<p><button class="w3-btn-block w3-section w3-theme w3-ripple w3-padding">Send</button></p>
 
-<p>Mauris justo sem, pellentesque sed purus a, viverra imperdiet metus. Aenean vehicula et lectus sit amet lacinia. Ut suscipit risus risus, ac dignissim mi dictum eget. Integer varius finibus tortor, non posuere libero lobortis sed. Praesent venenatis mauris eu urna aliquam, eu mattis leo egestas. Nunc interdum nunc eget fringilla lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin enim velit, porta hendrerit eros nec, tempus rhoncus quam. Quisque a justo sollicitudin erat facilisis suscipit eget a magna. Phasellus ullamcorper massa a lorem dictum, eget eleifend arcu sodales. Sed tempus dictum turpis quis tempor. Morbi et massa vel augue bibendum feugiat non id nibh. Sed suscipit leo nulla, ut cursus lacus bibendum porttitor. Nam blandit nisl id ex aliquam, at luctus diam auctor.</p>
+<p></form>
+</div>
+<div class="w3-col s12 m4 l4">
+<div class="w3-card-4"></p>
 
-<p>Maecenas malesuada et mauris nec placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc mattis ornare orci ut euismod. Aenean sed justo ac metus auctor hendrerit. Integer accumsan orci eget urna venenatis vulputate. Nunc porta dignissim neque, in facilisis mi. In hac habitasse platea dictumst. Phasellus at sapien vitae felis convallis lobortis non quis velit. Aliquam venenatis interdum eros, quis sodales odio lacinia nec. Donec laoreet auctor purus vitae malesuada. Donec eleifend velit id lacus gravida, in eleifend purus fringilla. Mauris venenatis in ex tempus semper. Morbi commodo odio aliquam massa dapibus, vestibulum placerat libero pharetra. Vivamus mattis tempus nulla non cursus.</p>
+<header class="w3-container w3-theme">
+  <p>ADDRESS</p>
+</header>
+
+<div class="w3-container w3-text-theme">
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-map-marker"></i></div>
+    <div class="w3-rest">
+      <p>MGF, Dimili, Elamanchili, Visakhapatnam, Andhra Pradesh, India.</p>
+    </div>
+</div>
+</div>
+<hr/>
+<div class="w3-container w3-text-theme">
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-envelope-o"></i></div>
+    <div class="w3-rest">
+      <p>mgfzone@gmail.com</p>
+    </div>
+</div>
+</div>
+<hr/>
+<div class="w3-container w3-text-theme">
+<div class="w3-row w3-section">
+  <div class="w3-col" style="width:50px"><i class="w3-xxlarge fa fa-phone"></i></div>
+    <div class="w3-rest">
+      <p>+91 9640876423</p>
+    </div>
+</div>
+</div>
+
+<p></div>
+</div>
+</div></p>
 
 
 </div>
@@ -105,6 +156,15 @@ WhatsApp <img src="https://mgfzone.com/images/whatsapp-logo.gif" style="height: 
 </p>
 <small><div class="w3-left-align" style="display: inline; float: left;"><span>&copy; Copyright All Rights Reserved.</span></div><div class="w3-right-align" style="display: inline; float: right;"><span>Prepared by <a href="http://skgadi.com/">SKGadi</a>.</span></div></small>
 </footer>
-
+<script>
+function MobileNavButtonPress() {
+	var x = document.getElementById("GSKNavBar");
+	if (x.className.indexOf("w3-show") == -1) {
+		x.className += " w3-show";
+	} else {
+		x.className = x.className.replace(" w3-show", "");
+	}
+}
+</script>
 </body>
 </html>
