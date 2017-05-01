@@ -69,6 +69,6 @@ Because of the excessive emphasis on milk production, cow breads that produce mo
 
 Various products, including cosmetics, medicines, milk, curd, ghee, urine and dung, made out of desi cows are available at the utsav.
 
-### DATE: DESI COW UTSAV AT PEOPLE PLAZA, HYDERABAD MARCH 29, 2012 10:42 IST M. Subash
+**DATE: DESI COW UTSAV AT PEOPLE PLAZA, HYDERABAD MARCH 29, 2012 10:42 IST M. Subash**
 
 Reference: [http://www.thehindu.com/news/cities/Hyderabad/health-benefits-of-desi-cow-products-underscored/article3257107.ece](http://www.thehindu.com/news/cities/Hyderabad/health-benefits-of-desi-cow-products-underscored/article3257107.ece)
