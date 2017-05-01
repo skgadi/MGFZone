@@ -1,11 +1,10 @@
 {{ partial "head.html" . }}
 {{ partial "navbar.html" . }}
 <div class=" w3-display-container" style="margin: auto; width: 90%; margin-top: 85px;">
-<p><b>{{ .Title }}</b> <br/> {{ .Description }} </p>
+<p><b>{{ .Title }}</b> <br/> {{ .Description | safeHTML }} </p>
 <div class="w3-container">
 	<ul class="w3-navbar w3-theme">
 		<li><a href="javascript:void(0)" class="tablink w3-blue" onclick="ChangeTabContent(event, 'About');">About</a></li>
-
 		{{ if eq $.Params.ShortCode "SKD" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.SKGTabs }}{{ end }} {{ if eq $.Params.ShortCode "OrF" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.OrFTabs }}{{ end }} {{ if eq $.Params.ShortCode "CNS" }}{{ .Scratch.Set "GSKTabsList" $.Site.Data.tabs.CNSTabs }}{{ end }} {{ .Scratch.Set "GSKCount" 1 }} {{ range $.Scratch.Get "GSKTabsList" }} <li><a href="javascript:void(0)" class="tablink" onclick="ChangeTabContent(event, '{{ . }}');">{{ . }}</a></li> {{ end }}
 	</ul>
 	<div id="TabContent" class="w3-container w3-border page">
