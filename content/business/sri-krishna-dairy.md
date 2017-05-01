@@ -10,7 +10,7 @@ PhotosAlbum = "72157679520489716"
 ReportsID = "1FAIpQLSdAzBSHpAfcNhobTBP6bNoG7qhwjMZRPruWQiJ6C-NBtvZa_A"
 +++
 
-### THE DESHI COW MILK
+### THE DESHI COW
 Our wealth of indigenous cattle breeds have failed to benefit those who are conserving them – the poor farmers, herders and nomadic pastoralists who produce 70 per cent of the milk that finds its way to the market
 
 “The milk from my cows is thicker and sweeter, and good for children’s growth,” says Vidyabai Awathale, a traditional herder from the Gawli community, who conserves the rare Gaolao breed of cattle from Wardha district in Maharashtra, “It makes very tasty khowa and the ghee has richer fragrance and taste.”
@@ -43,7 +43,7 @@ Kulkarni and a few others like him around the country are working to document th
 
 But largely, this healthy and delicious milk, which Indian has in abundance, is being procured at exploitative rates by private dairies. The only answer to this dismal situation is awareness, which could create a willingness among consumers to pay a fair price for this milk and so make the conservation efforts pay for the small farmers and herders. Is the scientific community listening? More important, are policy-makers listening?
 
-**DATE: DOWN TO EARTH-[APARNA PALLAVI  ](http://www.downtoearth.org.in/author/aparna-pallavi-16)MONDAY 30 NOVEMBER -0001**
+**DATE: DOWN TO EARTH-[APARNA PALLAVI  ](http://www.downtoearth.org.in/author/aparna-pallavi-16)MONDAY 30 NOVEMBER**
 
 Reference: [http://www.downtoearth.org.in/blog/the-deshi-cow-milk-jinx-45095](http://www.downtoearth.org.in/blog/the-deshi-cow-milk-jinx-45095)
 
